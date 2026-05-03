@@ -1,0 +1,1 @@
+[Cinemachine package | Cinemachine | 3.1.0](https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html)

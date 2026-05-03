@@ -1,0 +1,1 @@
+[shareAI-lab/learn-claude-code：你只需要 Bash——一个从零开始构建的类似 nano Claude Code 的“代理框架”。 --- shareAI-lab/learn-claude-code: Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1](https://github.com/shareAI-lab/learn-claude-code)

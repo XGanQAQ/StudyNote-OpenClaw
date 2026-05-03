@@ -1,0 +1,15 @@
+- v2ray-core
+	- [v2ray/v2ray-core: A platform for building proxies to bypass network restrictions.](https://github.com/v2ray/v2ray-core)
+	- 代理核心
+	- 简洁高效
+	- 缺失直接使用的一些功能
+- v2rayN
+	- [2dust/v2rayN: A GUI client for Windows, Linux and macOS, support Xray and sing-box and others](https://github.com/2dust/v2rayN)
+	- 带GUI界面
+	- 全平台可用
+	- 适用于客户端
+- v2rayA
+	- [v2rayA/v2rayA: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀](https://github.com/v2rayA/v2rayA)
+	- web界面
+	- 全平台可用
+	- 适用于服务器、路由器

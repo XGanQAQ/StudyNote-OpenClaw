@@ -1,0 +1,1 @@
+[Unity - Manual: Add anti-aliasing in the Universal Render Pipeline](https://docs.unity3d.com/6000.1/Documentation/Manual/urp/anti-aliasing.html)

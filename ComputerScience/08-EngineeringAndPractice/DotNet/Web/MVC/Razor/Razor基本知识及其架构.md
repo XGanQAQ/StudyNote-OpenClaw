@@ -1,0 +1,17 @@
+- Razor 引擎解析 .cshtml 文件，将 C# 代码转换为 HTML。
+- 使用布局文件（_Layout.cshtml）定义页面的通用结构。
+- 使用视图组件（RazorComponent）实现可重用的 UI 组件。
+- wwwroot 文件夹存放静态文件，如 CSS、JavaScript 和图片。
+    - css文件夹下的site定义了全局样式。
+    - js文件夹下的site定义了全局脚本。
+    - lib文件夹下的bootstrap和jquery是第三方库。
+- Pages 文件夹存放页面文件，每个 .cshtml 文件对应一个页面。
+    - _ViewStart.cshtml 文件定义了页面的默认布局。
+    - _ViewImports.cshtml 文件定义了页面的命名空间和引用。
+    - Index.cshtml 文件是默认的主页。
+    - Shared 文件夹存放共享的视图文件。
+    - 同样名字的 .cshtml 文件会被视为同一个页面的不同部分。
+        - 自动绑定无需引用,保证局部性。
+        - 如 Index.cshtml 和 Index.cshtml.cs。
+- Layout 文件夹存放布局文件，定义页面的通用结构。
+    - @RenderBody() 方法用于渲染页面的主体内容。你的Page会插入到这里面。

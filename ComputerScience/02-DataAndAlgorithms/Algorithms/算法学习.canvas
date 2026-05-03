@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"04b60fd7a8b68df8","type":"text","text":"贪心_局部最优","x":-580,"y":-243,"width":250,"height":60},
+		{"id":"b51b8773581e00b9","type":"text","text":"通过算法笔试","x":0,"y":100,"width":250,"height":60},
+		{"id":"478ad7a6c69eb1d7","type":"text","text":"分治_拆分问题","x":-580,"y":-360,"width":250,"height":60},
+		{"id":"dc44d7c2585b7bca","type":"text","text":"递归","x":-280,"y":-360,"width":250,"height":60},
+		{"id":"d9667b2cf404f60a","type":"text","text":"程序设计","x":152,"y":-76,"width":250,"height":60},
+		{"id":"6f9e088c73cb8b23","type":"text","text":"算法思想","x":-180,"y":-76,"width":250,"height":60},
+		{"id":"cd574b9885f5b981","type":"text","text":"时间与空间复杂度","x":440,"y":-243,"width":250,"height":60},
+		{"id":"24e723bec3eb6298","type":"text","text":"抽象建模能力","x":125,"y":-243,"width":250,"height":60},
+		{"id":"07e6c7e1b38c9216","type":"text","text":"数据结构","x":125,"y":-360,"width":250,"height":60},
+		{"id":"d26f8ba8a6bfe9c0","type":"text","text":"调试","x":440,"y":-360,"width":250,"height":60},
+		{"id":"43999c18d1cb60a1","x":-264,"y":-243,"width":250,"height":60,"type":"text","text":"动态规划_重叠问题"}
+	],
+	"edges":[
+		{"id":"25d3e0e0449f58ac","fromNode":"b51b8773581e00b9","fromSide":"top","toNode":"6f9e088c73cb8b23","toSide":"bottom"},
+		{"id":"e6402232ab401c60","fromNode":"6f9e088c73cb8b23","fromSide":"top","toNode":"04b60fd7a8b68df8","toSide":"bottom"},
+		{"id":"9bda7eaeb3bf662a","fromNode":"6f9e088c73cb8b23","fromSide":"top","toNode":"478ad7a6c69eb1d7","toSide":"bottom"},
+		{"id":"0d117a4185db579f","fromNode":"6f9e088c73cb8b23","fromSide":"top","toNode":"dc44d7c2585b7bca","toSide":"bottom"},
+		{"id":"a76d84ed86932f1c","fromNode":"b51b8773581e00b9","fromSide":"top","toNode":"d9667b2cf404f60a","toSide":"bottom"},
+		{"id":"2a847910de684654","fromNode":"d9667b2cf404f60a","fromSide":"top","toNode":"24e723bec3eb6298","toSide":"bottom"},
+		{"id":"225bc7c229ef020a","fromNode":"d9667b2cf404f60a","fromSide":"top","toNode":"cd574b9885f5b981","toSide":"bottom"},
+		{"id":"e4deea51a15331ad","fromNode":"d9667b2cf404f60a","fromSide":"top","toNode":"07e6c7e1b38c9216","toSide":"bottom"},
+		{"id":"ea804847561f711b","fromNode":"d9667b2cf404f60a","fromSide":"top","toNode":"d26f8ba8a6bfe9c0","toSide":"bottom"},
+		{"id":"577f631329ddba28","fromNode":"6f9e088c73cb8b23","fromSide":"top","toNode":"43999c18d1cb60a1","toSide":"bottom"}
+	]
+}

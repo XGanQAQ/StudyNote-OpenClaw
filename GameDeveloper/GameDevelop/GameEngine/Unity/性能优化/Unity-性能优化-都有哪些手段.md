@@ -1,0 +1,16 @@
+- CPU资源优化
+	- 异步-多核心资源
+		- 多线程
+			- JobSystem
+		- 协程
+	- 缓存命中
+		- ECS
+		- DOT
+- GPU优化
+	- UI图集合批
+	- 资源正确的时机加载和卸载
+- 利用GPU算力节省CPU开销
+	- ComputerShader
+- 内存资源优化
+	 - LOD
+
