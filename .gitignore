@@ -1,0 +1,22 @@
+# 忽略所有的临时文件夹
+Temp/*
+.smart-env/*
+.obsidian/*
+.vscode/*
+.claude/*
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/logs/
+
+# System
+.DS_Store
+Thumbs.db                                                                                                                                                                                                                                                                                                                                           
+
+# Trash
+.trash/
+
+# Temp
+*.tmp
